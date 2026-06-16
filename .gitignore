@@ -9,4 +9,4 @@ models/
 
 # Ignore Python cache
 __pycache__/
-*.pyc
+*.pycmodels/rf_model.pkl
