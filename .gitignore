@@ -2,7 +2,7 @@
 data/
 
 # Ignore trained models
-models/
+models/rf_model.pkl
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
@@ -10,5 +10,4 @@ models/
 # Ignore Python cache
 __pycache__/
 *.pycmodels/rf_model.pkl
-models/rf_model.pkl
-models/rf_model.pkl
+
