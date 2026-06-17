@@ -207,7 +207,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm \
 | Earlyn Sonne | Designer | PowerPoint deck, chart design, slide layout and visual storytelling |
 | Rocky Njuguna | Analyst & PM | Project coordination, narrative writing, policy interpretation, README |
 
-*Students, Strathmore University, Nairobi — Financial Engineering.*
+
 
 ---
 
@@ -223,5 +223,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm \
 
 ---
 
-*Submitted to SDC DataSprint 2026 | Deadline: Tuesday 16 June 2026, 4:00 PM*
 *Strathmore Data Community × iLab Africa*
