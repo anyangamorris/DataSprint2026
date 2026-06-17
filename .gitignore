@@ -10,4 +10,8 @@ models/rf_model.pkl
 # Ignore Python cache
 __pycache__/
 *.pycmodels/rf_model.pkl
+<<<<<<< HEAD
+=======
+models/rf_model.pkl
+>>>>>>> f734f11 (removed the EDA file)
 
